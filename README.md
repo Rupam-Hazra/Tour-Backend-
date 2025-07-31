@@ -44,7 +44,7 @@ server/
    ```
 4. Create a `.env` file in the `server` directory with the following variables:
    ```env
-   PORT=5000
+   PORT=xxxx
    MONGODB_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
    JWT_EXPIRES_IN=90d
